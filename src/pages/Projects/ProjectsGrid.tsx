@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
 import './ProjectsGrid.css';
 import ProjectCard from './ProjectCard';
-import { projectsData } from '../../utils/constants';
+import { projectsData, Project } from '../../utils/constants';
 
 const ProjectsGrid: React.FC = () => {
   const [filter, setFilter] = useState<'all' | 'active' | 'completed' | 'planned'>('all');
   
-  const filteredProjects = projectsData.filter(project => {
+  const filteredProjects = projectsData.filter((project: Project) => {
     if (filter === 'all') return true;
     if (filter === 'active') return project.status === 'active';
     if (filter === 'completed') return project.status === 'completed';

@@ -4,14 +4,12 @@
   "private": true,
   "homepage": "https://nipce777-commits.github.io/syria-renata",
   "dependencies": {
+    "qrcode.react": "^4.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.10.0",
     "react-scripts": "5.0.1",
     "typescript": "^4.9.5",
-    "@types/react": "^18.0.28",
-    "@types/react-dom": "^18.0.11",
-    "@types/node": "^18.15.11",
     "web-vitals": "^3.3.0"
   },
   "scripts": {
@@ -41,6 +39,14 @@
     ]
   },
   "devDependencies": {
+    "@testing-library/react": "^16.3.2",
+    "@types/jest": "^30.0.0",
+    "@types/node": "^25.2.2",
+    "@types/qrcode.react": "^1.0.5",
+    "@types/react": "^19.2.13",
+    "@types/react-dom": "^19.2.3",
+    "@types/react-helmet-async": "^1.0.1",
+    "@types/react-scroll": "^1.8.10",
     "gh-pages": "^5.0.0"
   }
 }

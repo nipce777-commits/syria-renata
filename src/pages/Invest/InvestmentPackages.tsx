@@ -1,6 +1,6 @@
 import React from 'react';
 import './InvestmentPackages.css';
-import { investmentPackages } from '../../utils/constants';
+import { investmentPackages, InvestmentPackage } from '../../utils/constants';
 
 const InvestmentPackages = () => {
   const handleInvestClick = (packageId: number) => {
@@ -20,7 +20,7 @@ const InvestmentPackages = () => {
       </div>
 
       <div className="packages-grid">
-        {investmentPackages.map((pkg) => (
+        {investmentPackages.map((pkg: InvestmentPackage) => (
           <div
             key={pkg.id}
             className={`package-card ${pkg.recommended ? 'recommended' : ''}`}

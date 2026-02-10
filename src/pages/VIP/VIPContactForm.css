@@ -1,0 +1,49 @@
+.vip-contact-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.vip-security-badge {
+    background: #1a1a1a;
+    border: 1px solid #4CAF50;
+    color: #4CAF50;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+.vip-input, .vip-select, .vip-textarea {
+    width: 100%;
+    padding: 10px;
+    background: #1a1a1a;
+    border: 1px solid #333;
+    color: white;
+    border-radius: 5px;
+    margin: 5px 0;
+}
+
+.vip-submit-btn {
+    background: #FFD700;
+    color: black;
+    padding: 15px 30px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.radio-group {
+    display: flex;
+    gap: 20px;
+    margin: 10px 0;
+}
+
+.radio-option {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
