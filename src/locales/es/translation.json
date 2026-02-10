@@ -1,0 +1,108 @@
+﻿{
+  "app": {
+    "title": "Siria Renata",
+    "slogan": "Filantropía Estratégica para el Renacimiento Sirio",
+    "minimum_investment": "Inversión Mínima: €200.000",
+    "copyright": "© 2024 Siria Renata. Todos los derechos reservados."
+  },
+  "navigation": {
+    "home": "Inicio",
+    "story": "Historia",
+    "projects": "Proyectos",
+    "impact": "Impacto",
+    "transparency": "Transparencia",
+    "invest": "Invertir",
+    "contact": "Contacto VIP",
+    "language": "Idioma"
+  },
+  "hero": {
+    "title": "Del Pasado al Futuro",
+    "subtitle": "Donde cada inversión en euros se convierte en un legado duradero",
+    "cta_primary": "Invertir Ahora",
+    "cta_secondary": "Ver Transparencia",
+    "stats_total": "Total Invertido",
+    "stats_families": "Familias Ayudadas",
+    "stats_houses": "Casas Construidas",
+    "stats_children": "Niños Alimentados"
+  },
+  "phases": {
+    "past": "Cómo era",
+    "present": "Cómo es",
+    "future": "Cómo será",
+    "past_title": "Damasco en Flor",
+    "present_title": "Realidad Actual",
+    "future_title": "Visión Futura",
+    "past_desc": "Siria, tierra de civilizaciones antiguas, ciudad más antigua continuamente habitada del mundo. Cruce de culturas, comercio y patrimonio.",
+    "present_desc": "La guerra que destruyó. 13,4 millones de personas necesitan ayuda humanitaria. 6,8 millones desplazados. 2,4 millones de niños sin escolarizar.",
+    "future_desc": "Renacimiento a través de la filantropía estratégica. Nuevas ciudades inteligentes. Escuelas modernas. Economía sostenible. El retorno de Siria a su gloria."
+  },
+  "investment": {
+    "title": "Paquetes de Inversión Estratégica",
+    "subtitle": "Inversión mínima: €200.000. Cada nivel ofrece un impacto de legado creciente y retornos estratégicos.",
+    "foundation": "Nivel Fundación",
+    "transformer": "Nivel Transformador",
+    "legendary": "Nivel Legendario",
+    "amount": "Cantidad",
+    "features": "Características",
+    "roi": "Retorno de Impacto",
+    "apply": "Aplicar Ahora",
+    "form_title": "Conviértete en Fundador",
+    "form_subtitle": "Esto no es un formulario de donación. Esta es una solicitud de asociación estratégica.",
+    "name": "Nombre Legal Completo",
+    "representing": "Representando",
+    "investment_level": "Nivel de Inversión Deseado",
+    "contact_method": "Método de Contacto Preferido",
+    "vision": "Declaración de Visión Estratégica",
+    "submit": "Enviar Solicitud",
+    "disclaimer": "⚠️ Esta solicitud será revisada personalmente por nuestro Director Ejecutivo dentro de 48 horas. Recibirás una llamada telefónica directa para los siguientes pasos. Compromiso mínimo: €200.000."
+  },
+  "transparency": {
+    "title": "Centro de Transparencia 100%",
+    "subtitle": "Verificación en tiempo real de cada euro. Sin secretos. Sin excusas.",
+    "live_dashboard": "Panel de Impacto en Vivo",
+    "blockchain": "Verificación Blockchain",
+    "audit": "Auditoría de Terceros",
+    "gps": "Seguimiento GPS de Proyectos",
+    "live_cameras": "Transmisiones de Cámaras en Vivo",
+    "transactions": "Transacciones Recientes",
+    "reports": "Informes de Auditoría Públicos",
+    "verified": "Verificado",
+    "pending": "Pendiente"
+  },
+  "projects": {
+    "title": "Proyectos Activos",
+    "subtitle": "Progreso en tiempo real de nuestras iniciativas de reconstrucción",
+    "budget": "Presupuesto",
+    "progress": "Progreso",
+    "donors": "Donantes Principales",
+    "completion": "Finalización Estimada",
+    "view_updates": "Ver Actualizaciones en Vivo"
+  },
+  "impact": {
+    "title": "Impacto Medible",
+    "subtitle": "Resultados tangibles de nuestras inversiones estratégicas",
+    "lives_changed": "Vidas Cambiadas",
+    "communities": "Comunidades Transformadas",
+    "education": "Acceso a Educación",
+    "healthcare": "Atención Médica Proporcionada"
+  },
+  "partners": {
+    "title": "Socios Estratégicos",
+    "subtitle": "Organizaciones líderes globales que confían en nuestra misión",
+    "join": "Convertirse en Socio"
+  },
+  "vip": {
+    "title": "Contacto VIP",
+    "subtitle": "Acceso directo a nuestro equipo ejecutivo",
+    "email": "Correo Electrónico",
+    "phone": "Teléfono",
+    "location": "Ubicación",
+    "schedule": "Programar Reunión"
+  },
+  "footer": {
+    "platform": "Plataforma",
+    "invest": "Invertir",
+    "legal": "Legal",
+    "security": "Seguridad"
+  }
+}

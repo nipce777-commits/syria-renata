@@ -1,0 +1,39 @@
+﻿{
+  "app": {
+    "title": "سوريا ريناتا",
+    "slogan": "العمل الخيري الاستراتيجي لإحياء سوريا",
+    "minimum_investment": "الحد الأدنى للاستثمار: 200,000 يورو"
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "story": "القصة",
+    "projects": "المشاريع",
+    "impact": "التأثير",
+    "transparency": "الشفافية",
+    "invest": "استثمر",
+    "contact": "اتصال VIP"
+  },
+  "hero": {
+    "title": "من الماضي إلى المستقبل",
+    "subtitle": "حيث يصبح كل استثمار يورو إرثًا دائمًا",
+    "cta_primary": "استثمر الآن",
+    "cta_secondary": "انظر الشفافية"
+  },
+  "phases": {
+    "past": "كيف كانت",
+    "present": "كيف هي الآن",
+    "future": "كيف ستكون"
+  },
+  "investment": {
+    "foundation": "المستوى التأسيسي",
+    "transformer": "المستوى التحويلي",
+    "legendary": "المستوى الأسطوري",
+    "apply_now": "قدم الآن"
+  },
+  "transparency": {
+    "live_stats": "الإحصائيات المباشرة",
+    "blockchain": "التحقق عبر البلوكشين",
+    "audit": "مراجعة طرف ثالث",
+    "gps": "تتبع GPS"
+  }
+}

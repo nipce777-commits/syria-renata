@@ -1,0 +1,108 @@
+﻿{
+  "app": {
+    "title": "叙利亚复兴",
+    "slogan": "叙利亚重生的战略慈善事业",
+    "minimum_investment": "最低投资：€200,000",
+    "copyright": "© 2024 叙利亚复兴。版权所有。"
+  },
+  "navigation": {
+    "home": "首页",
+    "story": "故事",
+    "projects": "项目",
+    "impact": "影响",
+    "transparency": "透明度",
+    "invest": "投资",
+    "contact": "VIP联系",
+    "language": "语言"
+  },
+  "hero": {
+    "title": "从过去到未来",
+    "subtitle": "每一欧元投资都成为持久遗产的地方",
+    "cta_primary": "立即投资",
+    "cta_secondary": "查看透明度",
+    "stats_total": "总投资额",
+    "stats_families": "受助家庭",
+    "stats_houses": "建造房屋",
+    "stats_children": "喂养儿童"
+  },
+  "phases": {
+    "past": "过去如何",
+    "present": "现在如何",
+    "future": "未来如何",
+    "past_title": "繁荣的大马士革",
+    "present_title": "当前现实",
+    "future_title": "未来愿景",
+    "past_desc": "叙利亚，古老文明的摇篮，世界上最古老持续有人居住的城市。文化、贸易和遗产的交汇点。",
+    "present_desc": "摧毁一切的战争。1340万人需要人道主义援助。680万人流离失所。240万儿童失学。",
+    "future_desc": "通过战略慈善事业实现重生。新的智慧城市。现代化学校。可持续经济。叙利亚重返荣耀。"
+  },
+  "investment": {
+    "title": "战略投资套餐",
+    "subtitle": "最低投资：€200,000。每个级别提供不断增长的遗产影响和战略回报。",
+    "foundation": "基础级别",
+    "transformer": "转型级别",
+    "legendary": "传奇级别",
+    "amount": "金额",
+    "features": "特点",
+    "roi": "影响回报",
+    "apply": "立即申请",
+    "form_title": "成为创始人",
+    "form_subtitle": "这不是捐赠表格。这是战略合作伙伴关系的申请。",
+    "name": "完整法定姓名",
+    "representing": "代表",
+    "investment_level": "期望投资级别",
+    "contact_method": "首选联系方式",
+    "vision": "战略愿景声明",
+    "submit": "提交申请",
+    "disclaimer": "⚠️ 此申请将在48小时内由我们的执行董事亲自审核。您将接到直接电话进行后续步骤。最低承诺：€200,000。"
+  },
+  "transparency": {
+    "title": "100%透明度中心",
+    "subtitle": "每欧元的实时验证。没有秘密。没有借口。",
+    "live_dashboard": "实时影响仪表板",
+    "blockchain": "区块链验证",
+    "audit": "第三方审计",
+    "gps": "GPS项目追踪",
+    "live_cameras": "实时摄像头流",
+    "transactions": "近期交易",
+    "reports": "公开审计报告",
+    "verified": "已验证",
+    "pending": "待处理"
+  },
+  "projects": {
+    "title": "活跃项目",
+    "subtitle": "我们重建计划的实时进展",
+    "budget": "预算",
+    "progress": "进度",
+    "donors": "主要捐赠者",
+    "completion": "预计完成时间",
+    "view_updates": "查看实时更新"
+  },
+  "impact": {
+    "title": "可衡量影响",
+    "subtitle": "我们战略投资的具体成果",
+    "lives_changed": "改变的生活",
+    "communities": "转型的社区",
+    "education": "教育机会",
+    "healthcare": "提供的医疗保健"
+  },
+  "partners": {
+    "title": "战略合作伙伴",
+    "subtitle": "信任我们使命的全球领先组织",
+    "join": "成为合作伙伴"
+  },
+  "vip": {
+    "title": "VIP联系",
+    "subtitle": "直接接触我们的执行团队",
+    "email": "邮箱",
+    "phone": "电话",
+    "location": "位置",
+    "schedule": "安排会议"
+  },
+  "footer": {
+    "platform": "平台",
+    "invest": "投资",
+    "legal": "法律",
+    "security": "安全"
+  }
+}

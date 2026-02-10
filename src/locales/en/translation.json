@@ -1,0 +1,108 @@
+﻿{
+  "app": {
+    "title": "Syria Renata",
+    "slogan": "Strategic Philanthropy for Syrian Rebirth",
+    "minimum_investment": "Minimum Investment: €200,000",
+    "copyright": "© 2024 Syria Renata. All rights reserved."
+  },
+  "navigation": {
+    "home": "Home",
+    "story": "Story",
+    "projects": "Projects",
+    "impact": "Impact",
+    "transparency": "Transparency",
+    "invest": "Invest",
+    "contact": "VIP Contact",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "From Past to Future",
+    "subtitle": "Where every euro investment becomes a lasting legacy",
+    "cta_primary": "Invest Now",
+    "cta_secondary": "See Transparency",
+    "stats_total": "Total Invested",
+    "stats_families": "Families Helped",
+    "stats_houses": "Houses Built",
+    "stats_children": "Children Fed"
+  },
+  "phases": {
+    "past": "How it was",
+    "present": "How it is",
+    "future": "How it will be",
+    "past_title": "Damascus in Bloom",
+    "present_title": "Current Reality",
+    "future_title": "Future Vision",
+    "past_desc": "Syria, land of ancient civilizations, oldest continuously inhabited city in the world. A crossroads of cultures, trade, and heritage.",
+    "present_desc": "The war that destroyed. 13.4 million people in need of humanitarian aid. 6.8 million displaced. 2.4 million children out of school.",
+    "future_desc": "Rebirth through strategic philanthropy. New smart cities. Modern schools. Sustainable economy. The return of Syria to its glory."
+  },
+  "investment": {
+    "title": "Strategic Investment Packages",
+    "subtitle": "Minimum investment: €200,000. Each level offers increasing legacy impact and strategic returns.",
+    "foundation": "Foundation Level",
+    "transformer": "Transformer Level",
+    "legendary": "Legendary Level",
+    "amount": "Amount",
+    "features": "Features",
+    "roi": "Return on Impact",
+    "apply": "Apply Now",
+    "form_title": "Become a Founder",
+    "form_subtitle": "This is not a donation form. This is an application for strategic partnership.",
+    "name": "Full Legal Name",
+    "representing": "Representing",
+    "investment_level": "Desired Investment Level",
+    "contact_method": "Preferred Contact Method",
+    "vision": "Strategic Vision Statement",
+    "submit": "Submit Application",
+    "disclaimer": "⚠️ This application will be reviewed personally by our Executive Director within 48 hours. You will receive a direct phone call for next steps. Minimum commitment: €200,000."
+  },
+  "transparency": {
+    "title": "100% Transparency Hub",
+    "subtitle": "Real-time verification of every euro. No secrets. No excuses.",
+    "live_dashboard": "Live Impact Dashboard",
+    "blockchain": "Blockchain Verification",
+    "audit": "Third-Party Audit",
+    "gps": "GPS Project Tracking",
+    "live_cameras": "Live Camera Streams",
+    "transactions": "Recent Transactions",
+    "reports": "Public Audit Reports",
+    "verified": "Verified",
+    "pending": "Pending"
+  },
+  "projects": {
+    "title": "Active Projects",
+    "subtitle": "Real-time progress of our reconstruction initiatives",
+    "budget": "Budget",
+    "progress": "Progress",
+    "donors": "Major Donors",
+    "completion": "Estimated Completion",
+    "view_updates": "View Live Updates"
+  },
+  "impact": {
+    "title": "Measurable Impact",
+    "subtitle": "Tangible results of our strategic investments",
+    "lives_changed": "Lives Changed",
+    "communities": "Communities Transformed",
+    "education": "Education Access",
+    "healthcare": "Healthcare Provided"
+  },
+  "partners": {
+    "title": "Strategic Partners",
+    "subtitle": "Global leading organizations trusting our mission",
+    "join": "Become a Partner"
+  },
+  "vip": {
+    "title": "VIP Contact",
+    "subtitle": "Direct access to our executive team",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "schedule": "Schedule Meeting"
+  },
+  "footer": {
+    "platform": "Platform",
+    "invest": "Invest",
+    "legal": "Legal",
+    "security": "Security"
+  }
+}

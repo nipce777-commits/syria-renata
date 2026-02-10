@@ -1,0 +1,108 @@
+﻿{
+  "app": {
+    "title": "Syria Renata",
+    "slogan": "Strategische Philanthropie für den Wiederaufbau Syriens",
+    "minimum_investment": "Mindestinvestition: €200.000",
+    "copyright": "© 2024 Syria Renata. Alle Rechte vorbehalten."
+  },
+  "navigation": {
+    "home": "Startseite",
+    "story": "Geschichte",
+    "projects": "Projekte",
+    "impact": "Wirkung",
+    "transparency": "Transparenz",
+    "invest": "Investieren",
+    "contact": "VIP Kontakt",
+    "language": "Sprache"
+  },
+  "hero": {
+    "title": "Von der Vergangenheit zur Zukunft",
+    "subtitle": "Wo jede Euro-Investition zu einem bleibenden Vermächtnis wird",
+    "cta_primary": "Jetzt investieren",
+    "cta_secondary": "Transparenz sehen",
+    "stats_total": "Gesamtinvestiert",
+    "stats_families": "Familien geholfen",
+    "stats_houses": "Häuser gebaut",
+    "stats_children": "Kinder ernährt"
+  },
+  "phases": {
+    "past": "Wie es war",
+    "present": "Wie es ist",
+    "future": "Wie es sein wird",
+    "past_title": "Damaskus in Blüte",
+    "present_title": "Aktuelle Realität",
+    "future_title": "Zukunftsvision",
+    "past_desc": "Syrien, das Land der alten Zivilisationen, älteste kontinuierlich bewohnte Stadt der Welt. Ein Kreuzpunkt der Kulturen, des Handels und des Erbes.",
+    "present_desc": "Der Krieg, der zerstörte. 13,4 Millionen Menschen benötigen humanitäre Hilfe. 6,8 Millionen vertrieben. 2,4 Millionen Kinder ohne Schulbildung.",
+    "future_desc": "Wiedergeburt durch strategische Philanthropie. Neue Smart Cities. Moderne Schulen. Nachhaltige Wirtschaft. Die Rückkehr Syriens zu seinem Ruhm."
+  },
+  "investment": {
+    "title": "Strategische Investment-Pakete",
+    "subtitle": "Mindestinvestition: €200.000. Jedes Level bietet steigende Wirkung und strategische Renditen.",
+    "foundation": "Gründungs-Level",
+    "transformer": "Transformator-Level",
+    "legendary": "Legendär-Level",
+    "amount": "Betrag",
+    "features": "Merkmale",
+    "roi": "Rendite auf Wirkung",
+    "apply": "Jetzt bewerben",
+    "form_title": "Gründer werden",
+    "form_subtitle": "Dies ist kein Spendenformular. Dies ist eine Bewerbung für strategische Partnerschaft.",
+    "name": "Vollständiger Name",
+    "representing": "Vertretung",
+    "investment_level": "Gewünschtes Investment-Level",
+    "contact_method": "Bevorzugte Kontaktmethode",
+    "vision": "Strategische Vision",
+    "submit": "Bewerbung einreichen",
+    "disclaimer": "⚠️ Diese Bewerbung wird innerhalb von 48 Stunden persönlich von unserem Geschäftsführer geprüft. Sie erhalten einen direkten Anruf für die nächsten Schritte. Mindestverpflichtung: €200.000."
+  },
+  "transparency": {
+    "title": "100% Transparenz-Hub",
+    "subtitle": "Echtzeit-Verifizierung jedes Euros. Keine Geheimnisse. Keine Ausreden.",
+    "live_dashboard": "Live Wirkungs-Dashboard",
+    "blockchain": "Blockchain-Verifizierung",
+    "audit": "Externe Prüfung",
+    "gps": "GPS-Projektverfolgung",
+    "live_cameras": "Live-Kamera-Streams",
+    "transactions": "Letzte Transaktionen",
+    "reports": "Öffentliche Prüfberichte",
+    "verified": "Verifiziert",
+    "pending": "Ausstehend"
+  },
+  "projects": {
+    "title": "Aktive Projekte",
+    "subtitle": "Echtzeit-Fortschritt unserer Wiederaufbauinitiativen",
+    "budget": "Budget",
+    "progress": "Fortschritt",
+    "donors": "Hauptspender",
+    "completion": "Geplante Fertigstellung",
+    "view_updates": "Live-Updates ansehen"
+  },
+  "impact": {
+    "title": "Nachweisbare Wirkung",
+    "subtitle": "Messbare Ergebnisse unserer strategischen Investitionen",
+    "lives_changed": "Veränderte Leben",
+    "communities": "Gemeinschaften transformiert",
+    "education": "Bildungszugang",
+    "healthcare": "Gesundheitsversorgung"
+  },
+  "partners": {
+    "title": "Strategische Partner",
+    "subtitle": "Weltweit führende Organisationen, die unserem Ziel vertrauen",
+    "join": "Partner werden"
+  },
+  "vip": {
+    "title": "VIP Kontakt",
+    "subtitle": "Direkter Zugang zu unserem Führungsteam",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "location": "Standort",
+    "schedule": "Meeting planen"
+  },
+  "footer": {
+    "platform": "Plattform",
+    "invest": "Investieren",
+    "legal": "Rechtliches",
+    "security": "Sicherheit"
+  }
+}

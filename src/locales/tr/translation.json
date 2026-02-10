@@ -1,0 +1,108 @@
+﻿{
+  "app": {
+    "title": "Syria Renata",
+    "slogan": "Suriye'nin Yeniden Doğuşu için Stratejik Hayırseverlik",
+    "minimum_investment": "Minimum Yatırım: €200.000",
+    "copyright": "© 2024 Syria Renata. Tüm hakları saklıdır."
+  },
+  "navigation": {
+    "home": "Ana Sayfa",
+    "story": "Hikaye",
+    "projects": "Projeler",
+    "impact": "Etki",
+    "transparency": "Şeffaflık",
+    "invest": "Yatırım",
+    "contact": "VIP İletişim",
+    "language": "Dil"
+  },
+  "hero": {
+    "title": "Geçmişten Geleceğe",
+    "subtitle": "Her euro yatırımın kalıcı bir miras haline geldiği yer",
+    "cta_primary": "Şimdi Yatırım Yap",
+    "cta_secondary": "Şeffaflığı Gör",
+    "stats_total": "Toplam Yatırım",
+    "stats_families": "Yardım Edilen Aileler",
+    "stats_houses": "İnşa Edilen Evler",
+    "stats_children": "Beslenen Çocuklar"
+  },
+  "phases": {
+    "past": "Nasıldı",
+    "present": "Nasıl",
+    "future": "Nasıl Olacak",
+    "past_title": "Çiçek Açan Şam",
+    "present_title": "Mevcut Gerçeklik",
+    "future_title": "Gelecek Vizyonu",
+    "past_desc": "Suriye, antik medeniyetlerin ülkesi, dünyanın en eski sürekli yerleşim kenti. Kültürlerin, ticaretin ve mirasın kesişme noktası.",
+    "present_desc": "Yok eden savaş. 13.4 milyon insan insani yardıma ihtiyaç duyuyor. 6.8 milyon yerinden edilmiş. 2.4 milyon çocuk okul dışında.",
+    "future_desc": "Stratejik hayırseverlikle yeniden doğuş. Yeni akıllı şehirler. Modern okullar. Sürdürülebilir ekonomi. Suriye'nin ihtişamına dönüşü."
+  },
+  "investment": {
+    "title": "Stratejik Yatırım Paketleri",
+    "subtitle": "Minimum yatırım: €200.000. Her seviye artan miras etkisi ve stratejik getiriler sunar.",
+    "foundation": "Temel Seviye",
+    "transformer": "Dönüştürücü Seviye",
+    "legendary": "Efsanevi Seviye",
+    "amount": "Miktar",
+    "features": "Özellikler",
+    "roi": "Etki Getirisi",
+    "apply": "Şimdi Başvur",
+    "form_title": "Kurucu Olun",
+    "form_subtitle": "Bu bir bağış formu değildir. Bu stratejik ortaklık için bir başvurudur.",
+    "name": "Tam Resmi Ad",
+    "representing": "Temsil Eden",
+    "investment_level": "İstenen Yatırım Seviyesi",
+    "contact_method": "Tercih Edilen İletişim Yöntemi",
+    "vision": "Stratejik Vizyon Beyanı",
+    "submit": "Başvuruyu Gönder",
+    "disclaimer": "⚠️ Bu başvuru 48 saat içinde Genel Müdürümüz tarafından kişisel olarak incelenecektir. Sonraki adımlar için doğrudan telefon alacaksınız. Minimum taahhüt: €200.000."
+  },
+  "transparency": {
+    "title": "%100 Şeffaflık Merkezi",
+    "subtitle": "Her euronun gerçek zamanlı doğrulaması. Sır yok. Bahane yok.",
+    "live_dashboard": "Canlı Etki Panosu",
+    "blockchain": "Blockchain Doğrulaması",
+    "audit": "Üçüncü Taraf Denetimi",
+    "gps": "GPS Proje Takibi",
+    "live_cameras": "Canlı Kamera Yayınları",
+    "transactions": "Son İşlemler",
+    "reports": "Kamu Denetim Raporları",
+    "verified": "Doğrulandı",
+    "pending": "Beklemede"
+  },
+  "projects": {
+    "title": "Aktif Projeler",
+    "subtitle": "Yeniden yapılanma girişimlerimizin gerçek zamanlı ilerlemesi",
+    "budget": "Bütçe",
+    "progress": "İlerleme",
+    "donors": "Başlıca Bağışçılar",
+    "completion": "Tahmini Tamamlanma",
+    "view_updates": "Canlı Güncellemeleri Gör"
+  },
+  "impact": {
+    "title": "Ölçülebilir Etki",
+    "subtitle": "Stratejik yatırımlarımızın somut sonuçları",
+    "lives_changed": "Değişen Hayatlar",
+    "communities": "Dönüşen Topluluklar",
+    "education": "Eğitim Erişimi",
+    "healthcare": "Sağlanan Sağlık Hizmeti"
+  },
+  "partners": {
+    "title": "Stratejik Ortaklar",
+    "subtitle": "Misyonumuza güvenen küresel öncü kuruluşlar",
+    "join": "Ortak Olun"
+  },
+  "vip": {
+    "title": "VIP İletişim",
+    "subtitle": "Yönetici ekibimize doğrudan erişim",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "location": "Konum",
+    "schedule": "Toplantı Ayarla"
+  },
+  "footer": {
+    "platform": "Platform",
+    "invest": "Yatırım",
+    "legal": "Yasal",
+    "security": "Güvenlik"
+  }
+}

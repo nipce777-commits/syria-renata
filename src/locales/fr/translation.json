@@ -1,0 +1,108 @@
+﻿{
+  "app": {
+    "title": "Syria Renata",
+    "slogan": "Philanthropie Stratégique pour la Renaissance de la Syrie",
+    "minimum_investment": "Investissement Minimum : €200 000",
+    "copyright": "© 2024 Syria Renata. Tous droits réservés."
+  },
+  "navigation": {
+    "home": "Accueil",
+    "story": "Histoire",
+    "projects": "Projets",
+    "impact": "Impact",
+    "transparency": "Transparence",
+    "invest": "Investir",
+    "contact": "Contact VIP",
+    "language": "Langue"
+  },
+  "hero": {
+    "title": "Du Passé au Futur",
+    "subtitle": "Où chaque investissement en euros devient un héritage durable",
+    "cta_primary": "Investir Maintenant",
+    "cta_secondary": "Voir la Transparence",
+    "stats_total": "Total Investi",
+    "stats_families": "Familles Aidées",
+    "stats_houses": "Maisons Construites",
+    "stats_children": "Enfants Nourris"
+  },
+  "phases": {
+    "past": "Comment c'était",
+    "present": "Comment c'est",
+    "future": "Comment ce sera",
+    "past_title": "Damas en Fleur",
+    "present_title": "Réalité Actuelle",
+    "future_title": "Vision Future",
+    "past_desc": "Syrie, terre des civilisations anciennes, plus ancienne ville continuellement habitée du monde. Un carrefour de cultures, de commerce et de patrimoine.",
+    "present_desc": "La guerre qui a tout détruit. 13,4 millions de personnes ont besoin d'aide humanitaire. 6,8 millions de déplacés. 2,4 millions d'enfants non scolarisés.",
+    "future_desc": "Renaissance grâce à la philanthropie stratégique. Nouvelles villes intelligentes. Écoles modernes. Économie durable. Le retour de la Syrie à sa gloire."
+  },
+  "investment": {
+    "title": "Forfaits d'Investissement Stratégique",
+    "subtitle": "Investissement minimum : €200 000. Chaque niveau offre un impact patrimonial croissant et des retours stratégiques.",
+    "foundation": "Niveau Fondation",
+    "transformer": "Niveau Transformateur",
+    "legendary": "Niveau Légendaire",
+    "amount": "Montant",
+    "features": "Caractéristiques",
+    "roi": "Retour sur Impact",
+    "apply": "Postuler Maintenant",
+    "form_title": "Devenir Fondateur",
+    "form_subtitle": "Ceci n'est pas un formulaire de don. C'est une demande de partenariat stratégique.",
+    "name": "Nom Légal Complet",
+    "representing": "Représentant",
+    "investment_level": "Niveau d'Investissement Souhaité",
+    "contact_method": "Méthode de Contact Préférée",
+    "vision": "Déclaration de Vision Stratégique",
+    "submit": "Soumettre la Demande",
+    "disclaimer": "⚠️ Cette demande sera examinée personnellement par notre Directeur Exécutif dans les 48 heures. Vous recevrez un appel direct pour les prochaines étapes. Engagement minimum : €200 000."
+  },
+  "transparency": {
+    "title": "Centre de Transparence 100%",
+    "subtitle": "Vérification en temps réel de chaque euro. Pas de secrets. Pas d'excuses.",
+    "live_dashboard": "Tableau de Bord d'Impact en Direct",
+    "blockchain": "Vérification Blockchain",
+    "audit": "Audit Tierce Partie",
+    "gps": "Suivi GPS des Projets",
+    "live_cameras": "Flux Caméras en Direct",
+    "transactions": "Transactions Récentes",
+    "reports": "Rapports d'Audit Publics",
+    "verified": "Vérifié",
+    "pending": "En Attente"
+  },
+  "projects": {
+    "title": "Projets Actifs",
+    "subtitle": "Progression en temps réel de nos initiatives de reconstruction",
+    "budget": "Budget",
+    "progress": "Progression",
+    "donors": "Principaux Donateurs",
+    "completion": "Achèvement Estimé",
+    "view_updates": "Voir Mises à Jour en Direct"
+  },
+  "impact": {
+    "title": "Impact Mesurable",
+    "subtitle": "Résultats tangibles de nos investissements stratégiques",
+    "lives_changed": "Vies Changées",
+    "communities": "Communautés Transformées",
+    "education": "Accès à l'Éducation",
+    "healthcare": "Soins de Santé Fournis"
+  },
+  "partners": {
+    "title": "Partenaires Stratégiques",
+    "subtitle": "Organisations leaders mondiales faisant confiance à notre mission",
+    "join": "Devenir Partenaire"
+  },
+  "vip": {
+    "title": "Contact VIP",
+    "subtitle": "Accès direct à notre équipe exécutive",
+    "email": "Email",
+    "phone": "Téléphone",
+    "location": "Localisation",
+    "schedule": "Planifier un Rendez-vous"
+  },
+  "footer": {
+    "platform": "Plateforme",
+    "invest": "Investir",
+    "legal": "Légal",
+    "security": "Sécurité"
+  }
+}

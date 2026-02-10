@@ -1,0 +1,27 @@
+﻿{
+  "app": {
+    "title": "Syria Renata",
+    "slogan": "Strategic Philanthropy for Syrian Rebirth",
+    "minimum_investment": "Minimum Investment: €200,000"
+  },
+  "navigation": {
+    "home": "Home",
+    "story": "Story",
+    "projects": "Projects",
+    "impact": "Impact",
+    "transparency": "Transparency",
+    "invest": "Invest",
+    "contact": "VIP Contact"
+  },
+  "hero": {
+    "title": "From Past to Future",
+    "subtitle": "Where every euro investment becomes a lasting legacy",
+    "cta_primary": "Invest Now",
+    "cta_secondary": "See Transparency"
+  },
+  "phases": {
+    "past": "How it was",
+    "present": "How it is",
+    "future": "How it will be"
+  }
+}

@@ -1,0 +1,108 @@
+﻿{
+  "app": {
+    "title": "シリア・レナータ",
+    "slogan": "シリア再生のための戦略的フィランソロピー",
+    "minimum_investment": "最低投資額：€200,000",
+    "copyright": "© 2024 シリア・レナータ。無断複写・転載を禁じます。"
+  },
+  "navigation": {
+    "home": "ホーム",
+    "story": "ストーリー",
+    "projects": "プロジェクト",
+    "impact": "インパクト",
+    "transparency": "透明性",
+    "invest": "投資",
+    "contact": "VIP連絡先",
+    "language": "言語"
+  },
+  "hero": {
+    "title": "過去から未来へ",
+    "subtitle": "すべてのユーロ投資が永続的なレガシーとなる場所",
+    "cta_primary": "今すぐ投資",
+    "cta_secondary": "透明性を見る",
+    "stats_total": "総投資額",
+    "stats_families": "支援家族数",
+    "stats_houses": "建設住宅数",
+    "stats_children": "給食児童数"
+  },
+  "phases": {
+    "past": "過去の姿",
+    "present": "現在の姿",
+    "future": "未来の姿",
+    "past_title": "繁栄するダマスカス",
+    "present_title": "現在の現実",
+    "future_title": "将来のビジョン",
+    "past_desc": "シリア、古代文明の地、世界最古の継続的に居住されている都市。文化、貿易、遺産の交差点。",
+    "present_desc": "破壊をもたらした戦争。1340万人が人道支援を必要としています。680万人が避難。240万人の子供が学校に通えていません。",
+    "future_desc": "戦略的フィランソロピーによる再生。新しいスマートシティ。近代的な学校。持続可能な経済。シリアの栄光への回帰。"
+  },
+  "investment": {
+    "title": "戦略的投資パッケージ",
+    "subtitle": "最低投資額：€200,000。各レベルは増大するレガシー影響と戦略的リターンを提供します。",
+    "foundation": "基礎レベル",
+    "transformer": "変革レベル",
+    "legendary": "伝説レベル",
+    "amount": "金額",
+    "features": "特徴",
+    "roi": "影響リターン",
+    "apply": "今すぐ申込む",
+    "form_title": "創設者になる",
+    "form_subtitle": "これは寄付フォームではありません。戦略的パートナーシップの申請です。",
+    "name": "完全な法定名",
+    "representing": "代表",
+    "investment_level": "希望投資レベル",
+    "contact_method": "希望連絡方法",
+    "vision": "戦略的ビジョンステートメント",
+    "submit": "申請を提出",
+    "disclaimer": "⚠️ 本申請は48時間以内に当社エグゼクティブディレクターが個人で審査します。次のステップについて直接電話がかかります。最低コミットメント：€200,000。"
+  },
+  "transparency": {
+    "title": "100%透明性ハブ",
+    "subtitle": "すべてのユーロのリアルタイム検証。秘密なし。言い訳なし。",
+    "live_dashboard": "ライブ影響ダッシュボード",
+    "blockchain": "ブロックチェーン検証",
+    "audit": "第三者監査",
+    "gps": "GPSプロジェクト追跡",
+    "live_cameras": "ライブカメラストリーム",
+    "transactions": "最近の取引",
+    "reports": "公開監査報告書",
+    "verified": "検証済み",
+    "pending": "保留中"
+  },
+  "projects": {
+    "title": "進行中プロジェクト",
+    "subtitle": "復興イニシアチブのリアルタイム進捗",
+    "budget": "予算",
+    "progress": "進捗",
+    "donors": "主要寄付者",
+    "completion": "推定完了日",
+    "view_updates": "ライブ更新を見る"
+  },
+  "impact": {
+    "title": "測定可能な影響",
+    "subtitle": "戦略的投資の具体的な結果",
+    "lives_changed": "変化した生活",
+    "communities": "変容したコミュニティ",
+    "education": "教育アクセス",
+    "healthcare": "提供された医療"
+  },
+  "partners": {
+    "title": "戦略的パートナー",
+    "subtitle": "私たちの使命を信頼する世界的リーディング組織",
+    "join": "パートナーになる"
+  },
+  "vip": {
+    "title": "VIP連絡先",
+    "subtitle": "経営陣への直接アクセス",
+    "email": "メール",
+    "phone": "電話",
+    "location": "所在地",
+    "schedule": "面会を予約"
+  },
+  "footer": {
+    "platform": "プラットフォーム",
+    "invest": "投資",
+    "legal": "法的",
+    "security": "セキュリティ"
+  }
+}

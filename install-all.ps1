@@ -1,0 +1,63 @@
+# install-all.ps1
+Write-Host "Instaling all dependencies..." -ForegroundColor Green
+
+cd C:\Users\User\Desktop\syria-renata
+
+# Fshi paketat ekzistuese
+Remove-Item -Path node_modules -Recurse -Force -ErrorAction SilentlyContinue
+Remove-Item -Path package-lock.json -Force -ErrorAction SilentlyContinue
+
+# Krijo package.json të ri
+$packageJson = @'
+{
+  "name": "syria-renata",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.14.18",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/node": "^16.18.62",
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "axios": "^1.6.2",
+    "framer-motion": "^10.16.16",
+    "i18next": "^23.7.6",
+    "i18next-browser-languagedetector": "^7.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-ga": "^3.3.1",
+    "react-helmet-async": "^2.0.4",
+    "react-i18next": "^13.3.1",
+    "react-router-dom": "^6.20.1",
+    "react-scripts": "5.0.1",
+    "recharts": "^2.10.4",
+    "typescript": "^4.9.5",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": ["react-app", "react-app/jest"]
+  },
+  "browserslist": {
+    "production": [">0.2%", "not dead", "not op_mini all"],
+    "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
+  }
+}
+'@
+
+$packageJson | Out-File -FilePath package.json -Encoding UTF8
+
+# Instalo
+npm install
+
+Write-Host "Installation complete!" -ForegroundColor Green
+Write-Host "Run 'npm start' to start the project" -ForegroundColor Yellow
