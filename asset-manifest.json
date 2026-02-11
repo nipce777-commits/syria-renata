@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/syria-renata/static/css/main.1b451625.css",
+    "main.js": "/syria-renata/static/js/main.b33917dd.js",
+    "index.html": "/syria-renata/index.html",
+    "main.1b451625.css.map": "/syria-renata/static/css/main.1b451625.css.map",
+    "main.b33917dd.js.map": "/syria-renata/static/js/main.b33917dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b451625.css",
+    "static/js/main.b33917dd.js"
+  ]
+}
